@@ -2,6 +2,20 @@
 
 ![architechture DB.png](architechture%20DB.png)
 
+## Installation Instructions 🛠️
+
+⚠️ **For security reason, the `GCS URL for downloading the parquet INSEE database (insee_french_establishments.parquet)` has been removed, So make sure to have it on your possession before starting this project** ⚠️
+
+- initialise the project
+```shell
+make up 
+```
+- Run the project 
+```shell
+make run
+```
+
+
 This exercise focuses on creating a DICOM file processing pipeline.
 DICOM is a format used to store and exchange medical images and related patient information, facilitating interoperability 
 and ensuring compatibility between different imaging devices and healthcare systems. 
