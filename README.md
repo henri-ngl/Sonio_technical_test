@@ -13,7 +13,7 @@ make up
 make run
 ```
 
-
+## PROJECT DESCRIPTION
 This exercise focuses on creating a DICOM file processing pipeline.
 DICOM is a format used to store and exchange medical images and related patient information, facilitating interoperability 
 and ensuring compatibility between different imaging devices and healthcare systems. 
