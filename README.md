@@ -4,8 +4,6 @@
 
 ## Installation Instructions 🛠️
 
-⚠️ **For security reason, the `GCS URL for downloading the parquet INSEE database (insee_french_establishments.parquet)` has been removed, So make sure to have it on your possession before starting this project** ⚠️
-
 - initialise the project
 ```shell
 make up 
